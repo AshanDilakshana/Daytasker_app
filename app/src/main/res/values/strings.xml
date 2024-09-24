@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">DayPlanner</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="setTime">Set an Alarm</string>
+    <string name="enter_reminder">Enter your Reminder</string>
+    <string name="reminder_title">Enter your Task</string>
+    <string name="no_time_set">No time set</string>
+    <string name="pick_time">Pick Time</string>
+    <string name="save_reminder">Save</string>
+    <string name="add_a_reminder">Add a Task</string>
+    <string name="add_reminder">Add Task</string>
+    <string name="open_stopwatch">Stopwatch</string>
+    <string name="setReminderText">Set an Alarm</string>
+    <string name="pause">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="start">Start</string>
+    <string name="tasks">Tasks</string>
+    <string name="select_time">Select Time</string>
+    <string name="set_reminder">Set Alarm</string>
+    <string name="edit">Edit</string>
+    <string name="reminder_time">Reminder Time</string>
+    <string name="delete">Delete</string>
+    <string name="timerhead">Timer</string>
+</resources>
