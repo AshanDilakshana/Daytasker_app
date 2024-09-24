@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:padding="8dp">
+
+    <!-- TextView for showing the reminders -->
+    <TextView
+        android:id="@+id/widget_reminder_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/accentColor"
+        android:text="Reminder 1"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:padding="4dp" />
+
+    <TextView
+        android:id="@+id/widget_reminder_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/accentColor"
+        android:text="Reminder 2"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:padding="4dp" />
+
+    <TextView
+        android:id="@+id/widget_reminder_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/accentColor"
+        android:text="Reminder 3"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:padding="4dp" />
+
+</LinearLayout>
